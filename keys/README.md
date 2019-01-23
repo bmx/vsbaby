@@ -12,4 +12,8 @@ RED       06FE    0AFE    0EFE          0480      0880      0C80
 CLOUD     07F6    0BF6    0FF6          0480      0880      0C80
 BALL      07FA    0BFA    0FFA          0480      0880      0C80
 purple    07FC    0BFC    0FFC          0480      0880      0C80
+ON->OFF   17FE    1BFE    1FFE          17FE      1BFE      1FFE
+OFF->ON (console on)  nothing
+OFF-ON  (console off) nothing, it doesn't wake up the console
+LOCAL sw  nothing
 ```
